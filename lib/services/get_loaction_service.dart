@@ -22,7 +22,7 @@ class GetLoactionService {
 
     if (kDebugMode) {
       print(position.latitude);
-      print(position.latitude);
+      print(position.longitude);
     }
 
     //get the place using placemarkfromCoordinates
